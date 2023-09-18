@@ -118,7 +118,7 @@ function ApiKeyModal({ isOpen, onClose, apiKey, walletUrl, onSave }) {
             <div className=" space-x-3  justify-end">
               <button
                 onClick={onClose}
-                className="bg-gray-500 text-white mt-4 text-sm  absolute top-0 right-4 rounded-full   hover-bg-blue-700 "
+                className="bg-gray-500 text-white mt-2 text-sm  absolute top-0 right-4 rounded-full   hover-bg-blue-700 "
               >
                 <svg
                   width="30px"
